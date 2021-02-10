@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Linux 删除受保护的文件 .user.ini</title>
+      <link href="p/4c4622a0.html"/>
+      <url>p/4c4622a0.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>去掉保护</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chattr -i .user.ini</span><br></pre></td></tr></table></figure></li><li><p>删除</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -f .user.ini</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux 小技巧 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【周孝正】【食品安全与环境污染】</title>
       <link href="p/75548994.html"/>
       <url>p/75548994.html</url>
@@ -755,9 +780,9 @@
             
             <tag> 实用程序 </tag>
             
-            <tag> 电池 </tag>
-            
             <tag> 电话服务 </tag>
+            
+            <tag> 电池 </tag>
             
         </tags>
       
@@ -1859,9 +1884,9 @@
       
         <tags>
             
-            <tag> Windows 系统故障 </tag>
-            
             <tag> Windows 10 </tag>
+            
+            <tag> Windows 系统故障 </tag>
             
         </tags>
       
@@ -1981,11 +2006,11 @@
       
         <tags>
             
+            <tag> Windows 系统故障 </tag>
+            
             <tag> Windows Server 2003 </tag>
             
             <tag> Windows XP </tag>
-            
-            <tag> Windows 系统故障 </tag>
             
         </tags>
       
@@ -2039,9 +2064,9 @@
       
         <tags>
             
-            <tag> Ubuntu </tag>
-            
             <tag> Linux 小技巧 </tag>
+            
+            <tag> Ubuntu </tag>
             
             <tag> 刻录 </tag>
             
@@ -2072,13 +2097,13 @@
             
             <tag> 下载 </tag>
             
+            <tag> Linux 小技巧 </tag>
+            
             <tag> Ubuntu </tag>
             
             <tag> m3u8 </tag>
             
             <tag> 视频 </tag>
-            
-            <tag> Linux 小技巧 </tag>
             
         </tags>
       
@@ -2165,9 +2190,9 @@
       
         <tags>
             
-            <tag> Ubuntu </tag>
-            
             <tag> Linux 小技巧 </tag>
+            
+            <tag> Ubuntu </tag>
             
         </tags>
       

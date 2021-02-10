@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>吃棒棒糖的机器人&#39;s 博客</title>
+  <title>CMK&#39;sBLOG</title>
   
   
   <link href="https://cmk.red/atom.xml" rel="self"/>
   
   <link href="https://cmk.red/"/>
-  <updated>2021-02-10T02:14:38.210Z</updated>
+  <updated>2021-02-10T07:39:49.014Z</updated>
   <id>https://cmk.red/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux 删除受保护的文件 .user.ini</title>
+    <link href="https://cmk.red/p/4c4622a0.html"/>
+    <id>https://cmk.red/p/4c4622a0.html</id>
+    <published>2021-02-10T07:33:25.000Z</published>
+    <updated>2021-02-10T07:39:49.014Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>去掉保护</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chattr -i .user.ini</span><br></pre></td></tr></table></figure></li><li><p>删除</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -f .user.ini</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;去掉保护&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=</summary>
+      
+    
+    
+    
+    <category term="Linux" scheme="https://cmk.red/c/Linux/"/>
+    
+    
+    <category term="Linux 小技巧" scheme="https://cmk.red/t/Linux-%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>【周孝正】【食品安全与环境污染】</title>
@@ -738,47 +764,6 @@
     <category term="电池" scheme="https://cmk.red/t/%E7%94%B5%E6%B1%A0/"/>
     
     <category term="工具箱" scheme="https://cmk.red/t/%E5%B7%A5%E5%85%B7%E7%AE%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BlackBerry 10 Video Pro</title>
-    <link href="https://cmk.red/p/afdca644.html"/>
-    <id>https://cmk.red/p/afdca644.html</id>
-    <published>2020-09-28T13:55:13.000Z</published>
-    <updated>2021-02-10T02:14:37.985Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/blackberry_10/com.example.VideoPro/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/Video_Pro_v1.2.1.1.bar.7z">Video_Pro_v1.2.1.1.bar.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/blackberry_10/com.example.VideoPro/icon.png&quot;&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/Video_Pro_v1.2.1.1.bar.7z&quot;&gt;Video_Pro_v1.2.1.1.bar.7z&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</summary>
-    
-    
-    
-    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry-10/"/>
-    
-    
-    <category term="BlackBerry" scheme="https://cmk.red/t/BlackBerry/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/t/BlackBerry-10/"/>
-    
-    <category term="照片和视频" scheme="https://cmk.red/t/%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/"/>
-    
-    <category term="摄影" scheme="https://cmk.red/t/%E6%91%84%E5%BD%B1/"/>
-    
-    <category term="录像" scheme="https://cmk.red/t/%E5%BD%95%E5%83%8F/"/>
     
   </entry>
   
