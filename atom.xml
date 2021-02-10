@@ -6,7 +6,7 @@
   <link href="https://cmk.red/atom.xml" rel="self"/>
   
   <link href="https://cmk.red/"/>
-  <updated>2021-02-10T07:39:49.014Z</updated>
+  <updated>2021-02-10T07:51:38.592Z</updated>
   <id>https://cmk.red/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="https://cmk.red/p/4c4622a0.html"/>
     <id>https://cmk.red/p/4c4622a0.html</id>
     <published>2021-02-10T07:33:25.000Z</published>
-    <updated>2021-02-10T07:39:49.014Z</updated>
+    <updated>2021-02-10T07:51:38.592Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>去掉保护</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chattr -i .user.ini</span><br></pre></td></tr></table></figure></li><li><p>删除</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -f .user.ini</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>去掉保护</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chattr -i .user.ini</span><br></pre></td></tr></table></figure></li><li><p>删除</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -f .user.ini</span><br></pre></td></tr></table></figure><a id="more"></a></li></ul>]]></content>
     
     
-      
-      
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;去掉保护&lt;/p&gt;
-&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=</summary>
-      
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;chattr -i .user.ini&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;删除&lt;/p&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;rm -f .user.ini&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
     
     
     
