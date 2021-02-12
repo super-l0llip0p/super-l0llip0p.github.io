@@ -6,7 +6,7 @@
   <link href="https://cmk.red/atom.xml" rel="self"/>
   
   <link href="https://cmk.red/"/>
-  <updated>2021-02-10T07:51:38.592Z</updated>
+  <updated>2021-02-12T02:59:12.144Z</updated>
   <id>https://cmk.red/</id>
   
   <author>
@@ -17,11 +17,110 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>KaiOS OmniSD</title>
+    <link href="https://cmk.red/p/70c74278.html"/>
+    <id>https://cmk.red/p/70c74278.html</id>
+    <published>2021-02-12T02:55:11.000Z</published>
+    <updated>2021-02-12T02:59:12.144Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/kaios/OmniSD/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/KaiOS/OmniSD_v0.0.2.7z">OmniSD_v0.0.2.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/kaios/OmniSD/icon.png&quot;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/KaiOS/OmniSD_v0.0.2.7z&quot;&gt;OmniSD_v0.0.2.7z&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
+    
+    <category term="KaiOS" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/KaiOS/"/>
+    
+    
+    <category term="第三方 APP 安装工具" scheme="https://cmk.red/t/%E7%AC%AC%E4%B8%89%E6%96%B9-APP-%E5%AE%89%E8%A3%85%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows ADBTools</title>
+    <link href="https://cmk.red/p/8cf17588.html"/>
+    <id>https://cmk.red/p/8cf17588.html</id>
+    <published>2021-02-11T11:33:04.000Z</published>
+    <updated>2021-02-12T02:35:05.229Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/windows/ADBTools/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/ADBTools.7z">ADBTools.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/windows/ADBTools/icon.png&quot;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/ADBTools.7z&quot;&gt;ADBTools.7z&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
+    
+    <category term="Windows" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/"/>
+    
+    
+    <category term="Android" scheme="https://cmk.red/t/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows Pale Moon</title>
+    <link href="https://cmk.red/p/f5c7be55.html"/>
+    <id>https://cmk.red/p/f5c7be55.html</id>
+    <published>2021-02-11T11:32:23.000Z</published>
+    <updated>2021-02-12T02:29:39.599Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/windows/PaleMoon/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/PaleMoon.7z">PaleMoon.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/windows/PaleMoon/icon.png&quot;&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/PaleMoon.7z&quot;&gt;PaleMoon.7z&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
+    
+    <category term="Windows" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/Windows/"/>
+    
+    
+    <category term="浏览器" scheme="https://cmk.red/t/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux 删除受保护的文件 .user.ini</title>
     <link href="https://cmk.red/p/4c4622a0.html"/>
     <id>https://cmk.red/p/4c4622a0.html</id>
     <published>2021-02-10T07:33:25.000Z</published>
-    <updated>2021-02-10T07:51:38.592Z</updated>
+    <updated>2021-02-12T02:28:53.203Z</updated>
     
     <content type="html"><![CDATA[<ul><li><p>去掉保护</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chattr -i .user.ini</span><br></pre></td></tr></table></figure></li><li><p>删除</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">rm -f .user.ini</span><br></pre></td></tr></table></figure><a id="more"></a></li></ul>]]></content>
     
@@ -612,157 +711,6 @@
     <category term="实用程序" scheme="https://cmk.red/t/%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
     
     <category term="防误触" scheme="https://cmk.red/t/%E9%98%B2%E8%AF%AF%E8%A7%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BlackBerry 10 PlayCloud</title>
-    <link href="https://cmk.red/p/905df48f.html"/>
-    <id>https://cmk.red/p/905df48f.html</id>
-    <published>2020-09-28T14:19:21.000Z</published>
-    <updated>2021-02-10T02:14:37.895Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/blackberry_10/com.progweb.PlayCloud10/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/PlayCloud_v4.0.0.bar.7z">PlayCloud_v4.0.0.bar.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/blackberry_10/com.progweb.PlayCloud10/icon.png&quot;&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/PlayCloud_v4.0.0.bar.7z&quot;&gt;PlayCloud_v4.0.0.bar.7z&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</summary>
-    
-    
-    
-    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry-10/"/>
-    
-    
-    <category term="BlackBerry" scheme="https://cmk.red/t/BlackBerry/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/t/BlackBerry-10/"/>
-    
-    <category term="实用程序" scheme="https://cmk.red/t/%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
-    
-    <category term="DropBox" scheme="https://cmk.red/t/DropBox/"/>
-    
-    <category term="FTP" scheme="https://cmk.red/t/FTP/"/>
-    
-    <category term="文件管理器" scheme="https://cmk.red/t/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/"/>
-    
-    <category term="WebDAV" scheme="https://cmk.red/t/WebDAV/"/>
-    
-    <category term="Box" scheme="https://cmk.red/t/Box/"/>
-    
-    <category term="OneDrive" scheme="https://cmk.red/t/OneDrive/"/>
-    
-    <category term="Google Drive" scheme="https://cmk.red/t/Google-Drive/"/>
-    
-    <category term="打印机" scheme="https://cmk.red/t/%E6%89%93%E5%8D%B0%E6%9C%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BlackBerry 10 ProtectMe</title>
-    <link href="https://cmk.red/p/73c4b51b.html"/>
-    <id>https://cmk.red/p/73c4b51b.html</id>
-    <published>2020-09-28T14:14:44.000Z</published>
-    <updated>2021-02-10T02:14:37.927Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/blackberry_10/com.CellNinja.ProtectMe/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/ProtectMe_v1.4.0.1.bar.7z">ProtectMe_v1.4.0.1.bar.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/blackberry_10/com.CellNinja.ProtectMe/icon.png&quot;&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/ProtectMe_v1.4.0.1.bar.7z&quot;&gt;ProtectMe_v1.4.0.1.bar.7z&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</summary>
-    
-    
-    
-    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry-10/"/>
-    
-    
-    <category term="BlackBerry" scheme="https://cmk.red/t/BlackBerry/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/t/BlackBerry-10/"/>
-    
-    <category term="实用程序" scheme="https://cmk.red/t/%E5%AE%9E%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
-    
-    <category term="电话服务" scheme="https://cmk.red/t/%E7%94%B5%E8%AF%9D%E6%9C%8D%E5%8A%A1/"/>
-    
-    <category term="丢失" scheme="https://cmk.red/t/%E4%B8%A2%E5%A4%B1/"/>
-    
-    <category term="被盗" scheme="https://cmk.red/t/%E8%A2%AB%E7%9B%97/"/>
-    
-    <category term="保护" scheme="https://cmk.red/t/%E4%BF%9D%E6%8A%A4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>BlackBerry 10 Power Tools</title>
-    <link href="https://cmk.red/p/cb2125ee.html"/>
-    <id>https://cmk.red/p/cb2125ee.html</id>
-    <published>2020-09-28T14:01:09.000Z</published>
-    <updated>2021-02-10T02:14:37.911Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://res.cmk.red/assets/app_store/blackberry_10/PowerTools/icon.png"></p><table><thead><tr><th align="center">下载地址</th></tr></thead><tbody><tr><td align="center"><a href="https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/Power_Tools_v7.7.4.1.bar.7z">Power_Tools_v7.7.4.1.bar.7z</a></td></tr></tbody></table><a id="more"></a>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://res.cmk.red/assets/app_store/blackberry_10/PowerTools/icon.png&quot;&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;下载地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;&lt;a href=&quot;https://res.cmk.red/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry_10/Power_Tools_v7.7.4.1.bar.7z&quot;&gt;Power_Tools_v7.7.4.1.bar.7z&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</summary>
-    
-    
-    
-    <category term="应用商店" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/c/%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97/BlackBerry-10/"/>
-    
-    
-    <category term="BlackBerry" scheme="https://cmk.red/t/BlackBerry/"/>
-    
-    <category term="BlackBerry 10" scheme="https://cmk.red/t/BlackBerry-10/"/>
-    
-    <category term="生产力" scheme="https://cmk.red/t/%E7%94%9F%E4%BA%A7%E5%8A%9B/"/>
-    
-    <category term="文件管理器" scheme="https://cmk.red/t/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8/"/>
-    
-    <category term="闹钟" scheme="https://cmk.red/t/%E9%97%B9%E9%92%9F/"/>
-    
-    <category term="LED" scheme="https://cmk.red/t/LED/"/>
-    
-    <category term="加密" scheme="https://cmk.red/t/%E5%8A%A0%E5%AF%86/"/>
-    
-    <category term="拦截" scheme="https://cmk.red/t/%E6%8B%A6%E6%88%AA/"/>
-    
-    <category term="壁纸" scheme="https://cmk.red/t/%E5%A3%81%E7%BA%B8/"/>
-    
-    <category term="电池" scheme="https://cmk.red/t/%E7%94%B5%E6%B1%A0/"/>
-    
-    <category term="工具箱" scheme="https://cmk.red/t/%E5%B7%A5%E5%85%B7%E7%AE%B1/"/>
     
   </entry>
   
