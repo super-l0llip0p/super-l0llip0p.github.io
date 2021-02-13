@@ -662,9 +662,9 @@
             
             <tag> DropBox </tag>
             
-            <tag> FTP </tag>
-            
             <tag> 文件管理器 </tag>
+            
+            <tag> FTP </tag>
             
             <tag> WebDAV </tag>
             
@@ -861,9 +861,9 @@
             
             <tag> 实用程序 </tag>
             
-            <tag> 电池 </tag>
-            
             <tag> 电话服务 </tag>
+            
+            <tag> 电池 </tag>
             
         </tags>
       
@@ -1965,9 +1965,9 @@
       
         <tags>
             
-            <tag> Windows 系统故障 </tag>
-            
             <tag> Windows 10 </tag>
+            
+            <tag> Windows 系统故障 </tag>
             
         </tags>
       
@@ -2087,11 +2087,11 @@
       
         <tags>
             
+            <tag> Windows 系统故障 </tag>
+            
             <tag> Windows Server 2003 </tag>
             
             <tag> Windows XP </tag>
-            
-            <tag> Windows 系统故障 </tag>
             
         </tags>
       
